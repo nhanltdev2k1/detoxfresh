@@ -70,51 +70,6 @@
                             $stmt->close();
                             ?>
                         </div>
-
-                        <div class="categories-slider owl-carousel owl-theme mb-4 appear-animate" data-owl-options="{
-                        'margin': 2,
-                        'nav': false,
-                        'items': 1,
-                        'responsive': {
-                            '992': {
-                                'items': 4
-                            },
-                            '1200': {
-                                'items': 5
-                            }
-                        }
-                    }" data-animation-name="fadeInUpShorter" data-animation-delay="200">
-                            <div class="product-category">
-                                <img src="hinhmenu/icon/icon-1.png" alt="icon" width="60" height="60">
-                                <div class="category-content">
-                                    <p class="icon-h3 font2 ls-0 text-uppercase mb-0">Bike Saddles</p>
-                                </div>
-                            </div>
-                            <div class="product-category">
-                                <img src="hinhmenu/icon/icon-2.png" alt="icon" width="60" height="60">
-                                <div class="category-content">
-                                    <p class="icon-h3 font2 ls-0 text-uppercase mb-0">Bike Pedals</p>
-                                </div>
-                            </div>
-                            <div class="product-category">
-                                <img src="hinhmenu/icon/icon-3.png" alt="icon" width="60" height="60">
-                                <div class="category-content">
-                                    <p class="icon-h3 font2 ls-0 text-uppercase mb-0">Bike Frames</p>
-                                </div>
-                            </div>
-                            <div class="product-category">
-                                <img src="hinhmenu/icon/icon-4.png" alt="icon" width="60" height="60">
-                                <div class="category-content">
-                                    <p class="icon-h3 font2 ls-0 text-uppercase mb-0">Bike Chains</p>
-                                </div>
-                            </div>
-                            <div class="product-category">
-                                <img src="hinhmenu/icon/icon-5.png" alt="icon" width="60" height="60">
-                                <div class="category-content">
-                                    <p class="icon-h3 font2 ls-0 text-uppercase mb-0">Bike Tools</p>
-                                </div>
-                            </div>
-                        </div>
                     </div>
             </section>
 
@@ -124,23 +79,18 @@
                         <div class="banner banner1 appear-animate" data-animation-name="fadeIn"
                             data-animation-delay="200" style="background-color: #696f6f;">
                             <figure>
-                                <img src="hinhmenu/banner/banner-hackhebike-01.webp" alt="banner" width="640"
+                                <img src="hinhmenu/banner/banner-detoxfresh-001.webp" alt="banner" width="640"
                                     height="640">
                             </figure>
                         </div>
                     </div>
                     <div class="col-md-8">
                         <div class="banner banner2 h-100"
-                            style="background: #101010 no-repeat center/cover url(hinhmenu/banner/banner-hackhebike-02.webp);">
+                            style="background: #101010 no-repeat center/cover url(hinhmenu/banner/banner-detoxfresh-002.webp);">
                             <p class=" banner2-h4 text-light text-uppercase mb-0 appear-animate"
                                 data-animation-name="fadeInUpShorter" data-animation-delay="100">Get Ready</p>
-                            <p class="banner2-h2 d-inline-block align-middle text-uppercase m-b-3 appear-animate"
-                                data-animation-name="fadeInUpShorter" data-animation-delay="300">20% off</p><a
-                                href="product"
-                                class="btn btn-dark btn-lg align-middle m-b-3 appear-animate d-none d-sm-inline-block"
-                                data-animation-name="fadeInUpShorter" data-animation-delay="300">Shop All Sale</a>
                             <p class=" banner2-h3 heading-border appear-animate" data-animation-name="fadeInUpShorter"
-                                data-animation-delay="500">BIKES</p>
+                                data-animation-delay="500">US FASHION</p>
                         </div>
                     </div>
                 </div>
@@ -222,7 +172,7 @@
                                     <p class="banner3-h2-ads text-uppercase mb-0">20% off</p>
                                 </div>
                                 <div class="col-sm-4">
-                                    <img src="hinhmenu/banner/bannersale-hackhebike-03.webp" alt="banner"
+                                    <img src="hinhmenu/banner/bannersale-detoxfresh-001.webp" alt="banner"
                                         width="232" height="124">
                                 </div>
                                 <div class="col-sm-4 text-center">
@@ -238,7 +188,7 @@
                                     <p class="banner4-h2-ads text-uppercase text-white mb-0">30% off</p>
                                 </div>
                                 <div class="col-sm-4">
-                                    <img src="hinhmenu/banner/bannersale-hackhebike-01.webp" alt="banner"
+                                    <img src="hinhmenu/banner/bannersale-detoxfresh-003.webp" alt="banner"
                                         width="232" height="124">
                                 </div>
                                 <div class="col-sm-4 text-center">

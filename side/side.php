@@ -19,7 +19,7 @@
                             data-animation-name="fadeInLeftShorter" data-animation-delay="200">
                             <p class="home-slide-h4 text-light text-uppercase m-b-1">Extra</p>
                             <p class="home-slide-h2 text-uppercase m-b-1">20% off</p>
-                            <p class="heading-border-h4 font-weight-bold text-uppercase heading-border m-b-3">BIKES</p>
+                            <p class="heading-border-h4 font-weight-bold text-uppercase heading-border m-b-3">US Fashsion</p>
                             <p class="home-slide-h3 font5 m-b-5">Summer Sale</p>
 
                             <div>

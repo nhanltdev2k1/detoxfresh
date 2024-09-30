@@ -11,7 +11,7 @@
                                 on
                                 Instagram
                             </p>
-                            <p class="line-height-1">@hackhe.xyz</p>
+                            <p class="line-height-1">@detoxfresh.xyz</p>
                         </div>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
         <div class="footer-middle">
             <div class="row">
                 <div class="col-lg-3">
-                    <a href="home"><img src="hinhmenu/logo/logowhite-hackhebike.webp" alt="Logo" class="logo"></a>
+                    <a href="home"><img src="hinhmenu/logo/USFashion-dark.webp" alt="Logo" class="logo"></a>
                     <div class="widget">
                         <ul class="contact-info">
                             <?php

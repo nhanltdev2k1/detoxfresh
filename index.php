@@ -10,7 +10,7 @@ include("title_meta/title_meta.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<base href="http://localhost:8080/hackhebikestore/">
+<base href="http://localhost:8080/detoxfresh/">
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -18,18 +18,18 @@ include("title_meta/title_meta.php");
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="hinhmenu/icon/icon-hackhebike.webp" rel="shortcut icon" />
-    <link rel="canonical" href="https://parcoin.xyz/" />
-    <meta name="twitter:card" content="https://parcoin.xyz/<?php echo $_SERVER['REQUEST_URI']; ?>" />
+    <link rel="canonical" href="https://detoxfresh.xyz/" />
+    <meta name="twitter:card" content="https://detoxfresh.xyz/<?php echo $_SERVER['REQUEST_URI']; ?>" />
     <meta name="keywords" content="<?php echo $key; ?>" />
     <meta name="description" content="<?php echo $dis; ?>" />
-    <meta property="og:url" content="https://parcoin.xyz/<?php echo $_SERVER['REQUEST_URI']; ?>" />
+    <meta property="og:url" content="https://detoxfresh.xyz/<?php echo $_SERVER['REQUEST_URI']; ?>" />
     <meta property="og:type" content="website" />
-    <meta property="og:image:alt" content="https://parcoin.xyz/<?php echo $product['tieude']; ?>" />
-    <meta property="og:title" content="https://parcoin.xyz/<?php echo $product['tieude']; ?>" />
-    <meta property="og:description" content="https://parcoin.xyz/<?php echo $product['mota']; ?>" />
+    <meta property="og:image:alt" content="https://detoxfresh.xyz/<?php echo $product['tieude']; ?>" />
+    <meta property="og:title" content="https://detoxfresh.xyz/<?php echo $product['tieude']; ?>" />
+    <meta property="og:description" content="https://detoxfresh.xyz/<?php echo $product['mota']; ?>" />
     <meta property="og:image" content="<?php echo $img; ?>" />
     <meta property="og:updated_time" content="1578214368" />
-    <meta property="og:image" content="https://parcoin.xyz/hinhmenu/logo/logo-hackhebike.webp" />
+    <meta property="og:image" content="https://detoxfresh.xyz/hinhmenu/logo/logo-hackhebike.webp" />
     <meta property="og:description" content="<?php echo $dis; ?>" />
 
     <script>
@@ -41,19 +41,19 @@ include("title_meta/title_meta.php");
         (function(d) {
             var wf = d.createElement('script'),
                 s = d.scripts[0];
-            wf.src = 'siteparcoinstore/assets/js/webfont.js';
+            wf.src = 'cssdetoxfresh/assets/js/webfont.js';
             wf.async = true;
             s.parentNode.insertBefore(wf, s);
         })(document);
     </script>
 
-    <link rel="stylesheet" href="siteparcoinstore/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="cssdetoxfresh/assets/css/bootstrap.min.css">
 
     <!-- Main CSS File -->
-    <link rel="stylesheet" href="siteparcoinstore/assets/css/demo27.min.css">
-    <link rel="stylesheet" type="text/css" href="siteparcoinstore/assets/vendor/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="cssdetoxfresh/assets/css/demo27.min.css">
+    <link rel="stylesheet" type="text/css" href="cssdetoxfresh/assets/vendor/fontawesome-free/css/all.min.css">
     <link rel="stylesheet" type="text/css"
-        href="siteparcoinstore/assets/vendor/simple-line-icons/css/simple-line-icons.min.css">
+        href="cssdetoxfresh/assets/vendor/simple-line-icons/css/simple-line-icons.min.css">
 
 </head>
 
@@ -61,8 +61,8 @@ include("title_meta/title_meta.php");
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
-        "name": "hackhe bike store",
-        "url": "https://parcoin.xyz/"
+        "name": "detoxfresh shop",
+        "url": "https://detoxfresh.xyz/"
     }
 </script>
 </head>
@@ -186,15 +186,15 @@ include("title_meta/title_meta.php");
 <a id="scroll-top" href="#top" title="Top" role="button"><i class="icon-angle-up"></i></a>
 
 <!-- Plugins JS File -->
-<script src="siteparcoinstore/assets/js/jquery.min.js"></script>
-<script src="siteparcoinstore/assets/js/bootstrap.bundle.min.js"></script>
-<script src="siteparcoinstore/assets/js/plugins.min.js"></script>
-<script src="siteparcoinstore/assets/js/optional/isotope.pkgd.min.js"></script>
-<script src="siteparcoinstore/assets/js/jquery.appear.min.js"></script>
-<script src="siteparcoinstore/assets/js/jquery.plugin.min.js"></script>
+<script src="cssdetoxfresh/assets/js/jquery.min.js"></script>
+<script src="cssdetoxfresh/assets/js/bootstrap.bundle.min.js"></script>
+<script src="cssdetoxfresh/assets/js/plugins.min.js"></script>
+<script src="cssdetoxfresh/assets/js/optional/isotope.pkgd.min.js"></script>
+<script src="cssdetoxfresh/assets/js/jquery.appear.min.js"></script>
+<script src="cssdetoxfresh/assets/js/jquery.plugin.min.js"></script>
 
 
 <!-- Main JS File -->
-<script src="siteparcoinstore/assets/js/main.min.js"></script>
+<script src="cssdetoxfresh/assets/js/main.min.js"></script>
 
 </html>

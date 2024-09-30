@@ -1,5 +1,5 @@
 <?php
-$link = @mysqli_connect('localhost', 'root', '', 'hackhebikestore_data');
+$link = @mysqli_connect('localhost', 'root', '', 'detoxfresh_data');
 
 if (!$link) {
 
@@ -10,7 +10,7 @@ if (!$link) {
 
 // make foo the current db
 
-$db_selected = @mysqli_select_db($link, 'hackhebikestore_data');
+$db_selected = @mysqli_select_db($link, 'detoxfresh_data');
 
 if (!$db_selected) {
 

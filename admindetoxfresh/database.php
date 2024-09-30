@@ -2,7 +2,7 @@
 
 function ketnoi_MC()
 {
-  $ketnoi_maychu = mysqli_connect('localhost', 'root', '', 'hackhebikestore_data');
+  $ketnoi_maychu = mysqli_connect('localhost', 'root', '', 'detoxfresh_data');
   if (!$ketnoi_maychu) {
     $loi = "Không thể kết nối với máy chủ: " . mysqli_connect_error();
     echo $loi;
@@ -18,7 +18,7 @@ function chon_CSDL($ketnoi_MC)
 
 {
 
-  $CSDL = mysqli_select_db($ketnoi_MC, 'hackhebikestore_data');
+  $CSDL = mysqli_select_db($ketnoi_MC, 'detoxfresh_data');
 
   return $CSDL;
 }

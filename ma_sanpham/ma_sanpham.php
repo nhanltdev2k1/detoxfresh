@@ -26,7 +26,7 @@ include('phantrang/phantrang_dichvu.php');
                             </div>
                             <div class="col-md-5 col-lg-4 text-md-center my-5 my-lg-0"
                                 style="background-image: url(hinhmenu/banner/shop-banner-bg.png);">
-                                <img class="d-inline-block" src="hinhmenu/banner/shop-banner.png" alt="banner"
+                                <img class="d-inline-block" src="hinhmenu/banner/shop-banner-detoxfresh.webp" alt="banner"
                                     width="400" height="242">
                             </div>
                             <div class="col-md-3 my-5 my-lg-0">

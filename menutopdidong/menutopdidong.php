@@ -24,12 +24,12 @@
             </div>
 
             <div class="header-right d-none d-lg-flex">
-                <p class="top-message text-uppercase mr-2">Welcome HackheBike Store</p>
+                <p class="top-message text-uppercase mr-2">Welcome Dextofresh Shop</p>
                 <div class="header-dropdown dropdown-expanded">
                     <a href="#">Links</a>
                     <div class="header-menu">
                         <ul>
-                            <li><a href="adminhackhebikestore">My Account</a></li>
+                            <li><a href="admindetoxfresh">My Account</a></li>
                             <li><a href="#">Cart</a></li>
                             <li><a href="#">My Wishlist</a></li>
                             <li><a href="news/">News</a></li>
@@ -47,7 +47,7 @@
                     <i class="fas fa-bars"></i>
                 </button>
                 <a href="home" class="logo">
-                    <img src="hinhmenu/logo/logo-hackhebike.webp" alt="Porto Logo" width="111" height="44">
+                    <img src="hinhmenu/logo/USFashion-white.webp" alt="detoxfresh" width="111" height="44">
                 </a>
                 <nav class="main-nav">
                     <ul class="menu">
@@ -88,7 +88,7 @@
                                     <div class="col-lg-4 p-0">
                                         <div class="menu-banner menu-banner-2">
                                             <figure>
-                                                <img src="hinhmenu/banner/Banner-menu.webp"
+                                                <img src="hinhmenu/banner/banner-menu-detoxfresh.webp"
                                                     alt="Menu banner" class="product-promo">
                                             </figure>
                                         </div>
@@ -124,8 +124,7 @@
                         </li>
                         <li><a href="contact">Contact</a></li>
 
-                        <li class="float-right"><a href="https://hackhebikestore.site/" target="_blank">Hackhe Bike
-                                Store!</a>
+                        <li class="float-right"><a href="https://detoxfresh.xyz/" target="_blank">Detoxfresh Shop! </a>
                         </li>
                     </ul>
                 </nav>

@@ -19,7 +19,7 @@
     <div class="widget">
         <div class="maga-sale-container custom-maga-sale-container" style="background-color: #f9f9fb;">
             <figure class="mega-image">
-                <img src="hinhmenu/banner/banner-product.webp" class="w-100" alt="Banner Desc">
+                <img src="hinhmenu/banner/banner-product-detoxfresh.webp" class="w-100" alt="Banner Desc">
             </figure>
 
         </div>
